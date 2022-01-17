@@ -6,6 +6,6 @@ final class PNUIKitTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(PNUIKit().text, "Hello, World!")
+//        XCTAssertEqual(PNUIKit().text, "Hello, World!")
     }
 }
